@@ -1,0 +1,1 @@
+start pythonw .\emojis.py .\config.txt
